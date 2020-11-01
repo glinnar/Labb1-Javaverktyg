@@ -1,0 +1,5 @@
+commit 345ba544a5d7c15057f263b679a4074f549ebafb (HEAD -> main, second)
+Author: Gurra <g.linnar@gmail.com>
+Date:   Sun Nov 1 09:56:58 2020 +0100
+
+    added file to save log msg
