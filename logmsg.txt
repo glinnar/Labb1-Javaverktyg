@@ -3,3 +3,12 @@ Author: Gurra <g.linnar@gmail.com>
 Date:   Sun Nov 1 09:56:58 2020 +0100
 
     added file to save log msg
+
+
+
+
+commit 26e2196115189e04c3c93c99c0c7facd5f94b49d (origin/main)
+Author: Gurra <g.linnar@gmail.com>
+Date:   Sun Nov 1 09:52:02 2020 +0100
+
+    first commit
